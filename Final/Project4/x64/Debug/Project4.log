@@ -1,0 +1,11 @@
+﻿  Main.cpp
+D:\Studia_MGR\semestr II\pwag\Final\Project4\Main.cpp(43,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia_MGR\semestr II\pwag\Final\Project4\Main.cpp(44,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia_MGR\semestr II\pwag\Final\Project4\Main.cpp(49,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Studia_MGR\semestr II\pwag\Final\Project4\Main.cpp(50,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Studia_MGR\semestr II\pwag\Final\Project4\Main.cpp(54,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia_MGR\semestr II\pwag\Final\Project4\Main.cpp(55,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia_MGR\semestr II\pwag\Final\Project4\Main.cpp(493,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Studia_MGR\semestr II\pwag\Final\Project4\Main.cpp(552,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Studia_MGR\semestr II\pwag\Final\Project4\Main.cpp(553,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project4.vcxproj -> D:\Studia_MGR\semestr II\pwag\Final\x64\Debug\Project4.exe
